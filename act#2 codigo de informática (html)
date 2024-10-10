@@ -1,0 +1,25 @@
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sans undertale</title>
+</head>
+<body>
+
+    <h1>Mi mega página</h1>
+    <p> Me puse creativo >:) </p>
+
+    <h2>Imagen epica</h2>
+    <img src="https://static.wikia.nocookie.net/delta-rune/images/a/a6/Sans_overworld.png/revision/latest/thumbnail/width/360/height/360?cb=20211102001638&path-prefix=es" alt="Imagen epicarda" width="276" height="370">
+
+    <h2>Enlaces divertidos</h2>
+<p> probar esto plz ▼ </p>
+
+ <button onclick="https://jcw87.github.io/c2-sans-fight/">Ir a un jueguito </button>
+ 
+
+<p> lamentablemente el jueguito no sirve asi que aqui el link de todas maneras del jueguito </p>
+
+<a href="https://jcw87.github.io/c2-sans-fight/">sans_battle</a>
+</body>
+</html>
